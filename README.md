@@ -1,1 +1,3 @@
-# aston-qa-kovaleva-java
+
+*Тестовое задание на стажировку Aston QA Engineer Java.*
+
